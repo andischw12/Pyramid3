@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UI
+  - Enemy
+  - Item
+  - Metal
+  - Stone
+  - Wood
+  - Sand
+  - PuzzleObject
+  - PuzzleIcon
+  - IgnoreDoubleTap
+  - inventoryEntry
+  - PlayerRayIsBlocked
+  - InteractObject
+  - PuzzleRefPosition
+  - spawnPosition
+  - charaVoiceOverAudioSource
+  - a_Listener
+  - TextInGame
+  - OnlyFocusIcon
+  - Head
+  - mobileCanvas
+  - Action
+  - House
+  - Spawn
+  - ViewerTurntable
+  - GearFixed
+  - Info
+  - DoNotClimb
+  - Shadow
+  - NotCombine
+  - Note
+  - ItemIcon
+  - Puzzle
+  - InfoGraphics
+  - InteractableItem
+  - Enemy2
+  - Enemy1
+  - AlarmingObject
+  - RedEnemy
+  - BlueEnemy
+  - InventoryItem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Effect
+  - Water
+  - UI
+  - Player
+  - InventoryItem
+  - Note
+  - Interact
+  - InfoGraphics
+  - InteractableItem
+  - RT
+  - Ragdoll
+  - Ground
+  - Character
+  - StepUp
+  - LowerClimb
+  - Climb
+  - DroppableLedge
+  - Ladder
+  - Vault
+  - Cover
+  - Item
+  - Enemy
+  - Wall Run
+  - Wall Climb
+  - Puzzle
+  - PuzzleFeedbackcam
+  - PuzzleRay
+  - PuzzleDragAndDrop
+  - Wall
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 4114990551
+    locked: 0
+  - name: 2
+    uniqueID: 3737842927
+    locked: 0
